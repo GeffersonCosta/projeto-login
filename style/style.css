@@ -116,9 +116,13 @@ form a.botao:hover{
     color: #baa4c9;
     background-color: #81599c;
 }
+div.campo > input:focus-within{
+    background-color:white;
+}
 
 div.campo{
-    background-color:#9265f3;
+    /*background-color:#9265f3;*/
+    background-color:#5651c7;
     border-radius: 20px;
     margin: 5px 0px;  
     display: flex;
