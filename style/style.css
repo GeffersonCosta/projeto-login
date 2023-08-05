@@ -75,29 +75,28 @@ form > input[type=submit]:hover{
     background-color: #8316cc;
 }
 
-form > input#password{
-    color: white;
-}
+
 div.campo > label{
     display: none;
 }
 form span.material-icons{
     color: white;
     font-size: 2em;
-
     width: 40px;
-    padding: 6px 4px;
+    padding:5px; 
+
 }
 div.campo > input{
     background-color: #e7ddfc;
     font-size: 1em;
-    height:49px;
-    width:calc(100% - 45px);
-    transform: translateY(-3px);
+    height:40px;
+    width:calc(100% - 40px);
     padding: 4px;
     outline: none;
     border-radius: 20px;
-    border: 1px solid  #e7ddfc;
+    border: 2px solid  #e7ddfc;
+    
+
 }
 form a.botao{
     text-align: center;
@@ -122,5 +121,7 @@ div.campo{
     background-color:#9265f3;
     border-radius: 20px;
     margin: 5px 0px;  
+    display: flex;
+    align-items: center;
 }
 
