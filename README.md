@@ -1,7 +1,8 @@
-##Mobile first
+
+## Mobile first
 <a href="https://geffersoncosta.github.io/projeto-login/index.html" target="_blank">Projeto tela de login</a>
     <hr>
-    <p style="text-indent: 30px;">
+    <p>
           Esse projeto foi desenvolvido,
           após uma aula sobre media queries, onde aprendi sobre a abordagem "mobile first". 
           Essa metodologia de design e desenvolvimento web prioriza a criação de uma experiência de usuário otimizada para dispositivos móveis. 
