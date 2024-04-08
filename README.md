@@ -1,5 +1,5 @@
 # projeto-login
-<h1>Mobile first</h1>
+<h2>Mobile first</h2>
 <a href="https://geffersoncosta.github.io/projeto-login/index.html" target="_blank">projeto tela de login</a>
     <hr>
     <p style="text-indent: 30px;">
