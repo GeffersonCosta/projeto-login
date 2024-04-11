@@ -61,7 +61,8 @@ div#formulario > p {
 form > input[type=submit]{
     display: block;
     width: 100%;
-    font-size: 1em;
+    font-size: 1.3em;
+    font-weight: bolder;
     height: 40px;
     background-color: #A48ADE;
     color: white;
